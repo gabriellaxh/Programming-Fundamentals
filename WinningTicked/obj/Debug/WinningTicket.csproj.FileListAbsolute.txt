@@ -1,6 +1,0 @@
-C:\Users\PC\documents\visual studio 2017\Projects\Solution1\WinningTicked\bin\Debug\WinningTicked.exe.config
-C:\Users\PC\documents\visual studio 2017\Projects\Solution1\WinningTicked\bin\Debug\WinningTicked.exe
-C:\Users\PC\documents\visual studio 2017\Projects\Solution1\WinningTicked\bin\Debug\WinningTicked.pdb
-C:\Users\PC\documents\visual studio 2017\Projects\Solution1\WinningTicked\obj\Debug\WinningTicket.csprojResolveAssemblyReference.cache
-C:\Users\PC\documents\visual studio 2017\Projects\Solution1\WinningTicked\obj\Debug\WinningTicked.exe
-C:\Users\PC\documents\visual studio 2017\Projects\Solution1\WinningTicked\obj\Debug\WinningTicked.pdb
