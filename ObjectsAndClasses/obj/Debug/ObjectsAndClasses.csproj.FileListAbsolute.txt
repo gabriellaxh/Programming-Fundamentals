@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\ObjectsAndClasses\bin\Debug\ObjectsAndClasses.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\ObjectsAndClasses\bin\Debug\ObjectsAndClasses.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\ObjectsAndClasses\bin\Debug\ObjectsAndClasses.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\ObjectsAndClasses\obj\Debug\ObjectsAndClasses.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\ObjectsAndClasses\obj\Debug\ObjectsAndClasses.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\ObjectsAndClasses\obj\Debug\ObjectsAndClasses.pdb

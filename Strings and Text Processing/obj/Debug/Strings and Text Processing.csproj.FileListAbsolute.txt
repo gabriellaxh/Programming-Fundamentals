@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Strings and Text Processing\bin\Debug\Strings and Text Processing.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Strings and Text Processing\bin\Debug\Strings and Text Processing.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Strings and Text Processing\bin\Debug\Strings and Text Processing.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Strings and Text Processing\obj\Debug\Strings and Text Processing.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Strings and Text Processing\obj\Debug\Strings and Text Processing.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Strings and Text Processing\obj\Debug\Strings and Text Processing.pdb

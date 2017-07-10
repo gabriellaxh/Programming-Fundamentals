@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Preparation\bin\Debug\Preparation.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Preparation\bin\Debug\Preparation.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Preparation\bin\Debug\Preparation.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Preparation\obj\Debug\Preparation.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Preparation\obj\Debug\Preparation.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Preparation\obj\Debug\Preparation.csprojResolveAssemblyReference.cache

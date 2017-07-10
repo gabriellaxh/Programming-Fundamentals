@@ -1,0 +1,5 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Only Letters\bin\Debug\Only Letters.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Only Letters\bin\Debug\Only Letters.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Only Letters\bin\Debug\Only Letters.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Only Letters\obj\Debug\Only Letters.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Only Letters\obj\Debug\Only Letters.pdb

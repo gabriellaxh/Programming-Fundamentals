@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\LogsAggregator\bin\Debug\LogsAggregator.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\LogsAggregator\bin\Debug\LogsAggregator.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\LogsAggregator\bin\Debug\LogsAggregator.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\LogsAggregator\obj\Debug\LogsAggregator.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\LogsAggregator\obj\Debug\LogsAggregator.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\LogsAggregator\obj\Debug\LogsAggregator.pdb

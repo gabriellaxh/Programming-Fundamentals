@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\Solution1\ByteFlip\bin\Debug\ByteFlip.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Solution1\ByteFlip\bin\Debug\ByteFlip.exe
+c:\users\pc\documents\visual studio 2017\Projects\Solution1\ByteFlip\bin\Debug\ByteFlip.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Solution1\ByteFlip\obj\Debug\ByteFlip.exe
+c:\users\pc\documents\visual studio 2017\Projects\Solution1\ByteFlip\obj\Debug\ByteFlip.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Solution1\ByteFlip\obj\Debug\ByteFlip.csprojResolveAssemblyReference.cache

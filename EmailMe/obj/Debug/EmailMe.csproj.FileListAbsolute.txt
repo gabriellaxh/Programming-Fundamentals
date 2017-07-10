@@ -1,0 +1,5 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\EmailMe\bin\Debug\EmailMe.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\EmailMe\bin\Debug\EmailMe.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\EmailMe\bin\Debug\EmailMe.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\EmailMe\obj\Debug\EmailMe.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\EmailMe\obj\Debug\EmailMe.pdb

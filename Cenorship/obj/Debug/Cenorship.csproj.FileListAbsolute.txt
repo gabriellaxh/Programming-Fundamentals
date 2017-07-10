@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Cenorship\bin\Debug\Cenorship.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Cenorship\bin\Debug\Cenorship.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Cenorship\bin\Debug\Cenorship.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Cenorship\obj\Debug\Cenorship.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Cenorship\obj\Debug\Cenorship.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Cenorship\obj\Debug\Cenorship.pdb

@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\TakeSkipRope\bin\Debug\TakeSkipRope.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\TakeSkipRope\bin\Debug\TakeSkipRope.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\TakeSkipRope\bin\Debug\TakeSkipRope.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\TakeSkipRope\obj\Debug\TakeSkipRope.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\TakeSkipRope\obj\Debug\TakeSkipRope.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\TakeSkipRope\obj\Debug\TakeSkipRope.pdb

@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Email Statistics\bin\Debug\Email Statistics.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Email Statistics\bin\Debug\Email Statistics.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Email Statistics\bin\Debug\Email Statistics.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Email Statistics\obj\Debug\Email Statistics.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Email Statistics\obj\Debug\Email Statistics.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Email Statistics\obj\Debug\Email Statistics.pdb

@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Winning Ticket\bin\Debug\Winning Ticket.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Winning Ticket\bin\Debug\Winning Ticket.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Winning Ticket\bin\Debug\Winning Ticket.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Winning Ticket\obj\Debug\Winning Ticket.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Winning Ticket\obj\Debug\Winning Ticket.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Winning Ticket\obj\Debug\Winning Ticket.pdb

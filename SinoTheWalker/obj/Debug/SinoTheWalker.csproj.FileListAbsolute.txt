@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\SinoTheWalker\obj\Debug\SinoTheWalker.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\SinoTheWalker\bin\Debug\SinoTheWalker.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\SinoTheWalker\bin\Debug\SinoTheWalker.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\SinoTheWalker\bin\Debug\SinoTheWalker.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\SinoTheWalker\obj\Debug\SinoTheWalker.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\SinoTheWalker\obj\Debug\SinoTheWalker.pdb

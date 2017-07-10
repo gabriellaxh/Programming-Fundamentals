@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Exam\bin\Debug\Exam.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Exam\bin\Debug\Exam.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Exam\bin\Debug\Exam.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Exam\obj\Debug\Exam.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Solution1\Exam\obj\Debug\Exam.pdb
