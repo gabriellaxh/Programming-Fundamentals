@@ -1,48 +1,30 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
-using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Charity_Marathon
+namespace Charity_Maraton
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string[] words = Console.ReadLine().Split();
-            string first = words[0];
-            string second = words[1];
-            var dict = new Dictionary<char, char>();
+           long days = int.Parse(Console.ReadLine());
+           long numberOfRunners = int.Parse(Console.ReadLine());
+           long averageLaps = int.Parse(Console.ReadLine());
+           long lengthOfTrack = int.Parse(Console.ReadLine());
+           long capacityOfTrack = int.Parse(Console.ReadLine());
+            double money = double.Parse(Console.ReadLine());
 
-            int minLength = Math.Min(first.Length, second.Length);
-            bool isExchangable = true;
-
-            for (int i = 0; i < minLength; i++)
+            long totalrunners = capacityOfTrack * days;
+            while (totalrunners > numberOfRunners)
             {
-                if (!dict.ContainsKey(first[i]))
-                {
-                    if (!dict.ContainsValue(second[i]))
-                    {
-                        dict[first[i]] = second[i];
-                    }
-                    else
-                    {
-                        isExchangable = false;
-                        break;
-                    }
-                }
-                else
-                {
-                    if (dict[first[i]] != second[i])
-                    {
-                        isExchangable = false;
-                        break;
-                    }
-                }
+                totalrunners--;
             }
+            long totalKMs = (totalrunners * averageLaps * lengthOfTrack) / 1000;
+            double moneyRaised = totalKMs * money;
+            Console.WriteLine($"Money raised: {moneyRaised:f2}");
         }
     }
-} 
+}
